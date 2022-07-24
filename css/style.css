@@ -5,3 +5,16 @@
 .primary {
     color: blue;
 }
+
+.round {
+    border-radius: 50%;
+}
+
+.stop-waiting {
+    background-image: url(../img/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 100vh;
+}
